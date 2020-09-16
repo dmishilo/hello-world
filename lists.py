@@ -10,6 +10,6 @@ for i in range(0, len(my_list)):
     my_list.append(i)
 
 print(my_list.pop())
-print(my_list)
+print(my_list[2])
 
 
